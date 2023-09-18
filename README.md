@@ -1,6 +1,6 @@
 ## Project Name :- EXPLORE THE WORLD VENTURE OUTSIDE TO CAPTURE GEO-TAGGED NFTs
 ### Team name :- MapX
-#### Hackathon Track :- 
+#### Hackathon Track :- AI and/or Blockchain project (Open ended)
 
 
 ##### Team Members
