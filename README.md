@@ -100,7 +100,7 @@ https://youtu.be/u9gG0TKPoA8
 We Need support and contacts with vendors ,businesses and restaurants for testing and release of  our application 
 
 ## How to Install 
-1) Download the apk file [MAPX]([https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing](https://drive.google.com/file/d/1k66i3-EyOTOAWWFi0NIDwZe8rHCyzgCr/view?usp=sharing)) [https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing](https://drive.google.com/file/d/1k66i3-EyOTOAWWFi0NIDwZe8rHCyzgCr/view?usp=sharing) and install in your android phone 
+1) Download the apk file [MAPX](https://drive.google.com/file/d/1oCQCuGt9IoimwUwm_iRfskbVCpvVHJ0j/view?usp=sharing](https://drive.google.com/file/d/1oCQCuGt9IoimwUwm_iRfskbVCpvVHJ0j/view?usp=sharing)) [https://drive.google.com/file/d/1oCQCuGt9IoimwUwm_iRfskbVCpvVHJ0j/view?usp=sharing](https://drive.google.com/file/d/1oCQCuGt9IoimwUwm_iRfskbVCpvVHJ0j/view?usp=sharing) and install in your android phone 
 
 2) Catch all the NFTs
 
